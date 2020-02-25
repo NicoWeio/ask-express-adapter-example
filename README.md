@@ -5,3 +5,7 @@ A basic Alexa skill using [Alexa Skills Kit SDK for Node.js](https://github.com/
 -   renamed `index.js` to `skill.js`
 -   removed `.lambda()` at the bottom of `skill.js`
 -   added **Express** stuff to a new `index.js`
+
+#### More information
+
+-   [Host a Custom Skill as a Web Service](https://developer.amazon.com/de-DE/docs/alexa/alexa-skills-kit-sdk-for-nodejs/host-web-service.html)
